@@ -30,34 +30,14 @@ The hospital management wants to create an Emergency Room Operational Report for
 
 ## Project Insight
 
-### 1. Patient Admission Analysis
-- **Admitted:** ~4,612 patients (~50.04%) required hospital admission for further treatment.
-- **Not Admitted:** ~4,604 patients (~49.96%) were discharged after emergency care.
+- Half of the patients were admitted (~50%), while the other half were discharged after care.
+- 59% of patients faced delays, shows that a major bottleneck in intake and triage.
+- Visits were evenly split between females (51%) and males (49%).
+- Adults aged 20–29 made up the highest number of visits (1,207 patients), closely followed by 30–39 and 0–9 age groups.
+- Most patients needed no specialty referral, though General Practice and Orthopedics were the top secondary departments used.
 
-### 2. Patient Attend Status
-- **Delay:** **59%** of patient attendances experienced operational delay.
-- **On Time:** **41%** of patients were attended on time.
-
-### 3. Demographic & Gender Analysis
-- **Female:** **51%**
-- **Male:** **49%**
-- A balanced gender ratio across all emergency room visits.
-
-### 4. Age Group Distribution
-- **20–29 Years:** Peak emergency room visits (**1,207 patients**).
-- **30–39 Years:** **1,191 patients**.
-- **0–9 Years:** **1,176 patients**.
-- **60–69 Years:** **1,150 patients**.
-- **50–59 Years:** **1,147 patients**.
-- **10–19 Years:** **1,160 patients**.
-- **40–49 Years:** **1,137 patients**.
-- **70–79 Years:** **1,048 patients**.
-
-### 5. Departmental Referrals
-- **None (Direct Care/Discharge):** Highest share of cases.
-- **General Practice:** Primary secondary referral line (~1,800+ patients).
-- **Orthopedics:** Second most common specialty referral (~1,000+ patients).
-- **Other Departments:** Physiotherapy, Cardiology, Neurology, Gastroenterology, Renal.
+## Final Conclusion 
+- The emergency room requires improvement, as a low satisfaction score of 4.99/10 and a high 59% delay rate lead to average wait times of 35.26 minutes across 9,216 visits. To resolve this, the hospital owner must focus on decreasing wait times, delay rates, and discharge times for non-admitted patients, while actively increasing on-time attendance, staffing in high-demand departments like General Practice and Orthopedics.
 
 
 
